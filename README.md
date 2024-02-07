@@ -6,6 +6,7 @@
 
 > [!NOTE]
 > Статус работы: закончен
+> 
 > [Ссылка на проект в GitHub Pages](https://vitali-workspace.github.io/react-mesto-auth-build/)
 
 <p>&nbsp;</p>
